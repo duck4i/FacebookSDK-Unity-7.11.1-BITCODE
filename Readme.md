@@ -14,7 +14,7 @@ All files are included in /Assets, or <b> .unitypackage </b> is in /Releases dir
 
 ## I don't trust it, I want official release  
 
-If you don't trust me, I can't blame you. You can do the fix yourself, following this steps:
+Smart. If you don't trust me, I can't blame you. You can do the fix yourself, following this steps:
 
 1. Download FB for Unity: https://origincache.facebook.com/developers/resources/?id=facebook-unity-sdk-7.11.1.zip
 
@@ -28,5 +28,6 @@ If you don't trust me, I can't blame you. You can do the fix yourself, following
 
 You can see open issues on FB official GitHub:
 
-https://github.com/facebook/facebook-sdk-for-unity/issues/143 
+https://github.com/facebook/facebook-sdk-for-unity/issues/143  
+
 https://github.com/facebook/facebook-sdk-for-unity/issues/135
