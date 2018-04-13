@@ -6,7 +6,7 @@ Original Facebook 7.11.1 (no modifications) with Bitcode support, because FB rec
 
 7.11 SDK couldn't compile at all on iOS, and their 7.11.1 hotfix broke Bitcode support, that many companies need.
 
-This is fixed release, with no code modifications at all.  <b> It is safe to us. </b>
+This is fixed release, with no code modifications at all.  <b> It is safe to use. </b>
 
 ## Usage
 
